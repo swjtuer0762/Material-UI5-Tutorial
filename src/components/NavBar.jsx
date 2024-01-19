@@ -64,14 +64,14 @@ const NavBar = () => {
           </Badge>
           <Avatar
             sx={{ width: 30, height: 30 }}
-            src="https://th.bing.com/th/id/OIP.wV_XLjVgNujZuaXgvXTjVAHaHa?rs=1&pid=ImgDetMain"
+            src="https://th.bing.com/th/id/OIP.wV_XLjVgNujZuaXgvXTjVAHaHa?w=169&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
             onClick={(e) => setOpen(true)}
           />
         </Icons>
         <UserBox onClick={(e) => setOpen(true)}>
           <Avatar
             sx={{ width: 30, height: 30 }}
-            src="https://th.bing.com/th/id/OIP.wV_XLjVgNujZuaXgvXTjVAHaHa?rs=1&pid=ImgDetMain"
+            src="https://th.bing.com/th/id/OIP.wV_XLjVgNujZuaXgvXTjVAHaHa?w=169&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
           />
           <Typography variant="span">John</Typography>
         </UserBox>

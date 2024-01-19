@@ -23,36 +23,39 @@ const RightBar = () => {
         <AvatarGroup max={7}>
           <Avatar
             alt="Remy Sharp"
-            src="https://th.bing.com/th/id/OIP.wV_XLjVgNujZuaXgvXTjVAHaHa?rs=1&pid=ImgDetMain"
+            src="https://th.bing.com/th/id/OIP.wV_XLjVgNujZuaXgvXTjVAHaHa?w=169&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
           />
           <Avatar
             alt="Travis Howard"
-            src="https://th.bing.com/th/id/OIP.wV_XLjVgNujZuaXgvXTjVAHaHa?rs=1&pid=ImgDetMain"
+            src="https://th.bing.com/th/id/OIP.wV_XLjVgNujZuaXgvXTjVAHaHa?w=169&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
           />
           <Avatar
             alt="Cindy Baker"
-            src="https://th.bing.com/th/id/OIP.wV_XLjVgNujZuaXgvXTjVAHaHa?rs=1&pid=ImgDetMain"
-          />
-          <Avatar alt="Agnes Walker" src="https://th.bing.com/th/id/OIP.wV_XLjVgNujZuaXgvXTjVAHaHa?rs=1&pid=ImgDetMain" />
-          <Avatar
-            alt="Trevor Henderson"
-            src="https://th.bing.com/th/id/OIP.wV_XLjVgNujZuaXgvXTjVAHaHa?rs=1&pid=ImgDetMain"
-          />
-          <Avatar
-            alt="Remy Sharp"
-            src="https://th.bing.com/th/id/OIP.wV_XLjVgNujZuaXgvXTjVAHaHa?rs=1&pid=ImgDetMain"
-          />
-          <Avatar
-            alt="Travis Howard"
-            src="https://th.bing.com/th/id/OIP.wV_XLjVgNujZuaXgvXTjVAHaHa?rs=1&pid=ImgDetMain"
-          />
-          <Avatar
-            alt="Cindy Baker"
-            src="https://th.bing.com/th/id/OIP.wV_XLjVgNujZuaXgvXTjVAHaHa?rs=1&pid=ImgDetMain"
+            src="https://th.bing.com/th/id/OIP.wV_XLjVgNujZuaXgvXTjVAHaHa?w=169&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
           />
           <Avatar
             alt="Agnes Walker"
-            src="https://th.bing.com/th/id/OIP.wV_XLjVgNujZuaXgvXTjVAHaHa?rs=1&pid=ImgDetMain"
+            src="https://th.bing.com/th/id/OIP.wV_XLjVgNujZuaXgvXTjVAHaHa?w=169&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+          />
+          <Avatar
+            alt="Trevor Henderson"
+            src="https://th.bing.com/th/id/OIP.wV_XLjVgNujZuaXgvXTjVAHaHa?w=169&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+          />
+          <Avatar
+            alt="Remy Sharp"
+            src="https://th.bing.com/th/id/OIP.wV_XLjVgNujZuaXgvXTjVAHaHa?w=169&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+          />
+          <Avatar
+            alt="Travis Howard"
+            src="https://th.bing.com/th/id/OIP.wV_XLjVgNujZuaXgvXTjVAHaHa?w=169&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+          />
+          <Avatar
+            alt="Cindy Baker"
+            src="https://th.bing.com/th/id/OIP.wV_XLjVgNujZuaXgvXTjVAHaHa?w=169&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+          />
+          <Avatar
+            alt="Agnes Walker"
+            src="https://th.bing.com/th/id/OIP.wV_XLjVgNujZuaXgvXTjVAHaHa?w=169&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
           />
         </AvatarGroup>
         <Typography variant="h6" fontWeight={100}>
@@ -140,7 +143,10 @@ const RightBar = () => {
         >
           <ListItem alignItems="flex-start">
             <ListItemAvatar>
-              <Avatar alt="Remy Sharp" src="https://th.bing.com/th/id/OIP.wV_XLjVgNujZuaXgvXTjVAHaHa?rs=1&pid=ImgDetMain" />
+              <Avatar
+                alt="Remy Sharp"
+                src="https://th.bing.com/th/id/OIP.wV_XLjVgNujZuaXgvXTjVAHaHa?w=169&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+              />
             </ListItemAvatar>
             <ListItemText
               primary="Brunch this weekend?"
@@ -162,7 +168,10 @@ const RightBar = () => {
           <Divider variant="inset" component="li" />
           <ListItem alignItems="flex-start">
             <ListItemAvatar>
-              <Avatar alt="Travis Howard" src="https://th.bing.com/th/id/OIP.wV_XLjVgNujZuaXgvXTjVAHaHa?rs=1&pid=ImgDetMain" />
+              <Avatar
+                alt="Travis Howard"
+                src="https://th.bing.com/th/id/OIP.wV_XLjVgNujZuaXgvXTjVAHaHa?w=169&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+              />
             </ListItemAvatar>
             <ListItemText
               primary="Summer BBQ"
@@ -184,7 +193,10 @@ const RightBar = () => {
           <Divider variant="inset" component="li" />
           <ListItem alignItems="flex-start">
             <ListItemAvatar>
-              <Avatar alt="Cindy Baker" src="https://th.bing.com/th/id/OIP.wV_XLjVgNujZuaXgvXTjVAHaHa?rs=1&pid=ImgDetMain" />
+              <Avatar
+                alt="Cindy Baker"
+                src="https://th.bing.com/th/id/OIP.wV_XLjVgNujZuaXgvXTjVAHaHa?w=169&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+              />
             </ListItemAvatar>
             <ListItemText
               primary="Oui Oui"
